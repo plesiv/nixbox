@@ -40,14 +40,6 @@
       {
         "type": "vagrant",
         "keep_input_artifact": false
-      },
-      {
-        "type": "vagrant-cloud",
-        "only": [
-          "virtualbox-iso"
-        ],
-        "box_tag": "nixos/nixos-18.03-x86_64",
-        "version": "18.03.131807-1"
       }
     ]
   ]
